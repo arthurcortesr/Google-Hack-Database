@@ -2,7 +2,13 @@
 
 # Verifica se o número correto de argumentos foi fornecido
 if [ "$#" -ne 1 ]; then
-    echo "Uso: $0 <alvo>"
+    echo "**************************************"
+    echo "Pk's Academy - GOOGLE HACKING DATABASE"
+    echo "**************************************" 
+    echo "Modo de uso: $0 <alvo>"
+    echo "**************************************"
+    echo "Exemplo: $0 businesscorp.com.br"
+    echo "**************************************"
     exit 1
 fi
 
