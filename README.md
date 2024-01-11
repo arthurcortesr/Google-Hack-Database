@@ -17,7 +17,7 @@ O script ghdb.sh é um utilitário de busca baseado em linha de comando projetad
 ## **Exemplo**
 
 ```bash
-./ghdb.sh example.com
+./ghdb.sh businesscorp.com.br
 ```
 
 ## **Exemplo de saída**
